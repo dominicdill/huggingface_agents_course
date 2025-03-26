@@ -1,0 +1,8 @@
+name: agents
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - conda-forge::python-dotenv
